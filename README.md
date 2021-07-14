@@ -3,6 +3,13 @@
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
+## Commands
+- Component `ember generate component map --with-component-class` or `ember g component map -gc`
+
+
+
+
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
